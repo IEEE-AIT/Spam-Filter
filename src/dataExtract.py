@@ -48,5 +48,5 @@ def Extractlabels(filename):
 
 
 #eg. :
-ExtractSub("...\Spam-Filter\Dataset\CSDMC2010_SPAM\CSDMC2010_SPAM\TESTING\TEST_00001.eml")
+ExtractSub("...\Spam-Filter\Dataset\CSDMC2010_SPAM\CSDMC2010_SPAM\TRAINING\TRAINING_00001.eml")
 
